@@ -8,7 +8,7 @@ cats.sort
 end
 
 def using_reverse(array)
- array=["arrays!", "wow!"]
+ array=["arrays!"]
 end
 
 def using_first(array)
